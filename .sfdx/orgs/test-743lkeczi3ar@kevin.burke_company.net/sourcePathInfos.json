@@ -45,15 +45,15 @@
     [
         "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1516207171042,
+            "changeTime": 1516207171042,
+            "contentHash": "b3108e932519af212b085e3c446fc3a2cbf3d6ef",
             "isMetadataFile": false,
-            "size": 192,
-            "modifiedTime": 1516205256040,
-            "changeTime": 1516205256040,
-            "isWorkspace": false,
-            "contentHash": "2df06b83bee077f9ab2c2f6e6851a9318ebe4e15"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -62,7 +62,7 @@
             "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5",
             "isDirectory": true,
             "size": 384,
-            "modifiedTime": 1516190842993,
+            "modifiedTime": 1516215853103,
             "changeTime": 1516190842993,
             "contentHash": "9811661e96d59fe57e9a70288e2724e8d99c2437",
             "isMetadataFile": false,
@@ -788,118 +788,248 @@
     [
         "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingApp",
         {
-            "state": "u",
             "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingApp",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 320,
             "modifiedTime": 1516205256043,
             "changeTime": 1516205256043,
-            "contentHash": "4bb1384baf8a6f21d5e0f9a81c6a8a38fb722084"
+            "contentHash": "4bb1384baf8a6f21d5e0f9a81c6a8a38fb722084",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingApp/campingApp.app",
         {
-            "state": "u",
             "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingApp/campingApp.app",
             "isDirectory": false,
+            "size": 83,
+            "modifiedTime": 1516215053877,
+            "changeTime": 1516214760726,
+            "contentHash": "32496d3f743629047680938e9e120f1dc37f551a",
             "isMetadataFile": false,
-            "size": 58,
-            "modifiedTime": 1516205288301,
-            "changeTime": 1516205288301,
-            "contentHash": "efd73b07a17c46ddfd0f827cdeb2d03423b760e1"
+            "state": "u"
         }
     ],
     [
         "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingApp/campingApp.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingApp/campingApp.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 244,
             "modifiedTime": 1516205256041,
             "changeTime": 1516205256041,
-            "contentHash": "d57bc1c16cc614045b300f2282fc99cf71cec678"
+            "contentHash": "d57bc1c16cc614045b300f2282fc99cf71cec678",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingApp/campingApp.auradoc",
         {
-            "state": "u",
             "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingApp/campingApp.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1516205256043,
             "changeTime": 1516205256043,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingApp/campingApp.css",
         {
-            "state": "u",
             "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingApp/campingApp.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1516205256042,
             "changeTime": 1516205256042,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingApp/campingApp.svg",
         {
-            "state": "u",
             "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingApp/campingApp.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1516205256042,
             "changeTime": 1516205256042,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingApp/campingAppController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingApp/campingAppController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1516205256041,
             "changeTime": 1516205256041,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingApp/campingAppHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingApp/campingAppHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1516205256041,
             "changeTime": 1516205256041,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingApp/campingAppRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingApp/campingAppRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1516205256042,
             "changeTime": 1516205256042,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingListItem",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingListItem",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1516207171045,
+            "changeTime": 1516207171045,
+            "contentHash": "055ed73443ba6d52eecadaa7a54e4d2f5a521faa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingListItem/campingListItem.auradoc",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingListItem/campingListItem.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1516207171044,
+            "changeTime": 1516207171044,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingListItem/campingListItem.cmp",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingListItem/campingListItem.cmp",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1516215749996,
+            "changeTime": 1516215749996,
+            "contentHash": "78d003e96c5683c1bc663c8f9b701004964bd503",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingListItem/campingListItem.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingListItem/campingListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1516207171042,
+            "changeTime": 1516207171042,
+            "contentHash": "b2dfade7e1af3441f520905b5a7ed3659ad0206b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingListItem/campingListItem.css",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingListItem/campingListItem.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1516207171043,
+            "changeTime": 1516207171043,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingListItem/campingListItem.design",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingListItem/campingListItem.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1516207171045,
+            "changeTime": 1516207171045,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingListItem/campingListItem.svg",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingListItem/campingListItem.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1516207171044,
+            "changeTime": 1516207171044,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingListItem/campingListItemController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingListItem/campingListItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 432,
+            "modifiedTime": 1516216086730,
+            "changeTime": 1516216086730,
+            "contentHash": "38b14f3a013d65c88843f36b7126e60d37171205"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingListItem/campingListItemHelper.js",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingListItem/campingListItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1516207171043,
+            "changeTime": 1516207171043,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingListItem/campingListItemRenderer.js",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura/campingListItem/campingListItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1516207171044,
+            "changeTime": 1516207171044,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]

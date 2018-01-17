@@ -1,0 +1,400 @@
+[
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516186510371,
+            "changeTime": 1516186510371,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516186510371,
+            "changeTime": 1516186510371,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1516188273035,
+            "changeTime": 1516188273035,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1516186510372,
+            "changeTime": 1516186510372,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1516186812103,
+            "changeTime": 1516186812103,
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Expense__c/Expense__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Expense__c/Expense__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2134,
+            "modifiedTime": 1516188273027,
+            "changeTime": 1516188273027,
+            "contentHash": "27f55ae4c5b5ef81e64c4782cec9b007325a8a25",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Expense__c/fields/Packed__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Expense__c/fields/Packed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 318,
+            "modifiedTime": 1516188273027,
+            "changeTime": 1516188273027,
+            "contentHash": "de3ae6bf636b183d0d98ac6bba09c831b718a01c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Expense__c/fields/Price__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Expense__c/fields/Price__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 358,
+            "modifiedTime": 1516188273028,
+            "changeTime": 1516188273028,
+            "contentHash": "0d6ef6240b985c3d5480f53da45daa78a0b0277c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Expense__c/fields/Quantity__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Expense__c/fields/Quantity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 389,
+            "modifiedTime": 1516188273028,
+            "changeTime": 1516188273028,
+            "contentHash": "b5e1b2ac9fc00ab94dd6952da6e66e1ebcba3579",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/layouts/Expense__c-Expense Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/layouts/Expense__c-Expense Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2364,
+            "modifiedTime": 1516188273033,
+            "changeTime": 1516188273033,
+            "contentHash": "0a4e00a07c7af3d3cd204f758e4da81a56dc6b44",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5273,
+            "modifiedTime": 1516190794299,
+            "changeTime": 1516190794299,
+            "contentHash": "554a9023727b8d4b307b5b76f5ce4289332085f9"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5611,
+            "modifiedTime": 1516190794309,
+            "changeTime": 1516190794309,
+            "contentHash": "93489924a89f481abbf13e63a1d1dcf4f956febd"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18642,
+            "modifiedTime": 1516190794346,
+            "changeTime": 1516190794346,
+            "contentHash": "88db7ed27ceeee40f53f62f429b1eb673fd3f143"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5273,
+            "modifiedTime": 1516190794353,
+            "changeTime": 1516190794353,
+            "contentHash": "554a9023727b8d4b307b5b76f5ce4289332085f9"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Expense__c",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Expense__c",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1516188273027,
+            "changeTime": 1516188273027,
+            "contentHash": "7e18244116415a1ea894bab3e1555215869b08f5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1516190794284,
+            "changeTime": 1516190794284,
+            "contentHash": "95447a554bd4004855e262aeff44eef92c8eb343"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Expense__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Expense__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1516190794275,
+            "changeTime": 1516190794275,
+            "contentHash": "eb624d9087107a1b7fe2a521ac1252f9e70d0cc7"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1516190794290,
+            "changeTime": 1516190794290,
+            "contentHash": "72e330d9ad588adf8476e6e126dc1b5b26de4dd6"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1516188273054,
+            "changeTime": 1516188273054,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Expense__c/fields/Amount__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Expense__c/fields/Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 386,
+            "modifiedTime": 1516190794274,
+            "changeTime": 1516190794274,
+            "contentHash": "472ae6f54d35237328ea05f13675341a86af5d7e"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Expense__c/fields/Client__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Expense__c/fields/Client__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 357,
+            "modifiedTime": 1516190794274,
+            "changeTime": 1516190794274,
+            "contentHash": "0a4ca2be5487be4a173586522bf41d4f049c5ed5"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Expense__c/fields/Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Expense__c/fields/Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 302,
+            "modifiedTime": 1516190794275,
+            "changeTime": 1516190794275,
+            "contentHash": "3aa2f8a93fac4dc61cd0c5780578ea9791519b1b"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Expense__c/fields/Reimbursed__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Expense__c/fields/Reimbursed__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 326,
+            "modifiedTime": 1516190794275,
+            "changeTime": 1516190794275,
+            "contentHash": "9acbdb90d14377c84305cbc7f2dd0239dc76cd4d"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Camping_Item__c/Camping_Item__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Camping_Item__c/Camping_Item__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2150,
+            "modifiedTime": 1516190794285,
+            "changeTime": 1516190794285,
+            "contentHash": "cf49ad35d9d6422fcd0063389cf2731fe373d5af"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Camping_Item__c/fields/Packed__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Camping_Item__c/fields/Packed__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 318,
+            "modifiedTime": 1516190794286,
+            "changeTime": 1516190794286,
+            "contentHash": "de3ae6bf636b183d0d98ac6bba09c831b718a01c"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Camping_Item__c/fields/Price__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Camping_Item__c/fields/Price__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 358,
+            "modifiedTime": 1516190794286,
+            "changeTime": 1516190794286,
+            "contentHash": "0d6ef6240b985c3d5480f53da45daa78a0b0277c"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Camping_Item__c/fields/Quantity__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Camping_Item__c/fields/Quantity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 389,
+            "modifiedTime": 1516190794287,
+            "changeTime": 1516190794287,
+            "contentHash": "b5e1b2ac9fc00ab94dd6952da6e66e1ebcba3579"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/layouts/Camping_Item__c-Camping Item Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/layouts/Camping_Item__c-Camping Item Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2364,
+            "modifiedTime": 1516190794290,
+            "changeTime": 1516190794290,
+            "contentHash": "0a4e00a07c7af3d3cd204f758e4da81a56dc6b44"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Camping_Item__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Camping_Item__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1516190794285,
+            "changeTime": 1516190794285,
+            "contentHash": "40c887785cf5353adea75e954d661c2b095466b1"
+        }
+    ],
+    [
+        "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Camping_Item__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kevin.burke/gitexperiments/new5/new5/force-app/main/default/objects/Camping_Item__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1516190794287,
+            "changeTime": 1516190794287,
+            "contentHash": "8afa910de6f6d993027cc908a4ffb449f7de8124"
+        }
+    ]
+]
